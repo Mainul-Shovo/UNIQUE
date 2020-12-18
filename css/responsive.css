@@ -1,0 +1,526 @@
+/* 
+  /* 
+   ##Device = Most of the Smartphones Mobiles (Portrait)
+   ##Screen = B/w 320px to 479px
+ */
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  /*========================*/
+  .header-section {
+    background-size: inherit;
+  }
+
+  .header-section .main-menu .navbar .navbar-brand img {
+    width: 120px;
+    margin-left: -20px;
+    margin-top: 10px;
+  }
+
+  .header-section .main-menu .navbar-light .navbar-nav .active>.nav-link {
+    color: #511de5;
+    background: url("../images/Mh.png")bottom left no-repeat;
+    background-size: auto;
+  }
+
+  .navbar-nav .nav-item .btn-link {
+    margin: 0px 16px;
+    display: block;
+    text-align: left;
+  }
+
+  .banner-section {
+
+    padding: 20px 0px;
+  }
+
+  .banner-section .inner-banner {
+    padding: 10px 0px;
+  }
+
+  .banner-section .inner-banner h2 {
+    font-size: 30px;
+    line-height: 34px;
+  }
+
+  .banner-section .inner-banner .btn {
+    padding: 5px 15px;
+    font-size: 12px;
+  }
+
+  .navbar-nav .nav-item .btn-success {
+    margin: 8px 0px 0px 10px;
+  }
+
+  .highlight-section {
+    padding: 30px 0px;
+  }
+
+  .highlight-section .inner-img img {
+    width: 40px;
+    margin: 75px 20px;
+  }
+
+  .highlight-section .inner-text h2 {
+    width: 100%;
+    margin: 0px auto;
+    font-size: 11px;
+    line-height: 17px;
+
+  }
+
+  /* 
+====================
+  !FEATURE-SECTION
+======================
+ */
+  .feature-section {
+    width: 100%;
+    padding: 40px 0px;
+  }
+
+  .feature-section .inner-feature {
+    padding: 30px;
+  }
+
+  .feature-section .inner-feature h2 {
+    font-size: 20px;
+    line-height: 27px;
+  }
+
+  .feature-section .inner-feature p {
+    margin-top: 30px;
+    font-size: 10px;
+    line-height: 18px;
+    max-width: 70%;
+  }
+
+  .feature-section .inner-feature {
+
+    padding: 30px;
+    background: url("../images/Bg.png") right no-repeat;
+    box-shadow: 1px 2px 10px #ccc;
+    background-size: contain;
+  }
+
+  .feature-section .inner-feature .number .fifty-two {
+    font-size: 20px;
+  }
+
+  .feature-section .inner-feature .number .percent {
+    font-size: 19px;
+  }
+
+  .feature-section .inner-feature .number {
+    margin-top: 70px;
+  }
+
+  .client-images img {
+    max-width: 100%;
+  }
+
+  /* ====================
+    Inner-queto-start
+========================*/
+  .inner-queto {
+    max-width: 100%;
+    padding: 70px 10px;
+  }
+
+  .queto-inner .testimonial-queoto {
+    padding: 46px 12px 40px 0px;
+  }
+
+  .queto-inner .testimonial-queoto p {
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    margin: 20px 0px 20px 28px;
+    line-height: 15px;
+  }
+
+  .queto-inner {
+    max-width: 100%;
+    padding: 0px 40px;
+    margin: 25px 0px;
+  }
+
+  .queto-inner .testimonial-queoto h4 {
+    font-size: 12px;
+  }
+
+  .inner-queto .inner-content h2 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+
+  /*! EFFICENCY-SECTION */
+  .effiency-section {
+    width: 100%;
+    padding: 25px 0px;
+  }
+
+  .effiency-section h2 {
+    font-size: 38px;
+    line-height: 48px;
+    margin-bottom: 40px;
+    margin-left: 6px;
+  }
+
+  .effiency-section p {
+    font-size: 12px;
+    margin: 0px 35px 25px 25px;
+  }
+
+  .effiency-section .btn {
+    padding: 6px 25px;
+    margin-left: 20px;
+  }
+
+  .effi-section .title h2 {
+    font-size: 25px;
+    line-height: 36px;
+  }
+
+  .effi-section .title p {
+    font-size: 13px;
+    color: #000;
+    font-weight: 500;
+    margin: 26px 12px 0px 20px;
+  }
+
+
+  /* TESTIMONIAL-SECTION */
+  .testimonial-section {
+    width: 100%;
+    padding: 40px 0px;
+  }
+
+  .testimonial-section .title h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+
+  /* INNER FAQ */
+
+  .mt-5, .my-5 {
+    margin-top: 1rem !important;}
+
+  .inner-faq {
+    padding: 30px 0PX;
+  }
+
+  .inner-faq .title h2 {
+    font-size: 28px;
+    line-height: 38px;
+    margin-bottom: 0px;
+  }
+  .inner-faq .card .card-body {
+    padding: 10px 25px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;}
+
+    .inner-faq {
+      padding: 5px 35PX;
+  }
+.copywright p {
+  width: 60%;
+    margin:0px auto;
+    font-size: 11px;
+
+}
+
+  .footer-icons ul {
+    width: 70%; 
+    margin: 0px auto;}
+
+    .footer-icons ul li {
+      margin-top: 8px;
+  
+
+    }
+    .footer-icons ul li a{
+      font-size: 14px;
+      font-weight: 500;
+    }
+  }
+
+  @media (min-width: 481px) and (max-width: 767px) {
+
+    /* ===========================*/
+    .navbar-nav .nav-item .btn-success {
+      margin: 10px 0px 0px 6px;
+      padding: 6px 30px;
+
+    }
+
+    .header-section .main-menu .navbar-light .navbar-nav .active>.nav-link {
+
+      background: url(../images/Mh.png)bottom left no-repeat;
+      background-size: auto;
+    }
+
+    .banner-section {
+      max-width: 68%;
+      padding: 30px 0px;
+    }
+
+    .banner-section .inner-banner {
+      padding: 6px 5px 50px;
+    }
+
+    .banner-section .inner-banner h2 {
+      font-size: 32px;
+      line-height: 40px;
+      margin-bottom: 40px;
+    }
+
+    .banner-section .inner-banner .btn {
+      padding: 5px 15px;
+      font-size: 12px;
+    }
+
+
+    .highlight-section {
+      padding: 35px 0px;
+    }
+  
+    .highlight-section .inner-img img {
+      width: 55px;
+      margin: 70px 20px;
+    }
+  
+    .highlight-section .inner-text h2 {
+      width: 100%;
+      margin: 0px auto;
+      font-size: 14px;
+      line-height: 20px;
+  
+    }
+  
+    /* 
+  ====================
+    !FEATURE-SECTION
+  ======================
+   */
+    .feature-section {
+      width: 100%;
+      padding: 40px 0px;
+    }
+  
+    .feature-section .inner-feature {
+      padding: 30px;
+    }
+  
+    .feature-section .inner-feature h2 {
+      font-size: 23px;
+      line-height: 30px;
+    }
+  
+    .feature-section .inner-feature p {
+      margin-top: 30px;
+      font-size: 12px;
+      line-height: 20px;
+      max-width: 70%;
+    }
+  
+    .feature-section .inner-feature {
+  
+      padding: 30px;
+      background: url("../images/Bg.png") right no-repeat;
+      box-shadow: 1px 2px 10px #ccc;
+      background-size: contain;
+    }
+  
+    .feature-section .inner-feature .number .fifty-two {
+      font-size: 25px;
+    }
+  
+    .feature-section .inner-feature .number .percent {
+      font-size: 23px;
+    }
+  
+    .feature-section .inner-feature .number {
+      margin-top: 70px;
+    }
+  
+    .client-images img {
+      max-width: 100%;
+    }
+  
+    /* ====================
+      Inner-queto-start
+  ========================*/
+  .inner-queto {
+    max-width: 100%;
+    padding: 80px 20px;
+  }
+
+  .queto-inner .testimonial-queoto {
+    padding: 56px 16px 50px 10px;
+  }
+
+  .queto-inner .testimonial-queoto p {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    margin: 20px 0px 20px 28px;
+    line-height: 19px;
+  }
+
+  .queto-inner {
+    max-width: 100%;
+    padding: 0px 80px;
+    margin: 55px 0px;
+  }
+
+  .queto-inner .testimonial-queoto h4 {
+    font-size: 14px;
+  }
+
+  .inner-queto .inner-content h2 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+    /*! EFFICENCY-SECTION */
+    .effiency-section {
+      width: 100%;
+      padding: 25px 0px;
+    }
+  
+    .effiency-section h2 {
+      font-size: 38px;
+      line-height: 48px;
+      margin-bottom: 40px;
+      margin-left: 6px;
+    }
+  
+    .effiency-section p {
+      font-size: 16px;
+      margin: 43px 30px 66px 20px;
+      max-width: 70%
+    }
+  
+    .effiency-section .btn {
+      padding: 6px 25px;
+      margin-left: 20px;
+    }
+  
+    .effi-section .title h2 {
+      font-size: 25px;
+      line-height: 36px;
+    }
+  
+    .effi-section .title p {
+      font-size: 15px;
+      margin: 28px 52px 0px 60px;
+      max-width: 66%;
+      margin: auto;
+    }
+  
+  
+    /* TESTIMONIAL-SECTION */
+    .testimonial-section {
+      width: 100%;
+      padding: 40px 0px;
+    }
+  
+    .testimonial-section .title h2 {
+      font-size: 28px;
+      margin-bottom: 15px;
+      margin-top: 15px;
+    }
+  
+    /* INNER FAQ */
+  
+    .mt-5, .my-5 {
+      margin-top: 1rem !important;}
+  
+    .inner-faq {
+      padding: 30px 0PX;
+    }
+  
+    .inner-faq .title h2 {
+      font-size: 28px;
+      line-height: 38px;
+      margin-bottom: 0px;
+    }
+    .inner-faq .card .card-body {
+      padding: 10px 25px;
+      font-size: 12px;
+      font-weight: 500;
+      line-height: 20px;}
+  
+      .inner-faq {
+        padding: 5px 35PX;
+    }
+  .copywright p {
+    width: 60%;
+      margin:0px auto;
+      font-size: 11px;
+  
+  }
+  
+    .footer-icons ul {
+      width: 70%; 
+      margin: 0px auto;}
+  
+      .footer-icons ul li {
+        margin-top: 8px;
+    
+  
+      }
+      .footer-icons ul li a{
+        font-size: 14px;
+        font-weight: 500;
+      }
+
+
+
+
+  }
+
+  
+
+  /* ===========================*/
+
+  @media (min-width: 768px) and (max-width: 1024px) {
+
+    /* ===========================*/
+    .header-section .main-menu .navbar-light .navbar-nav .active>.nav-link {
+      color: #511de5;
+      background: url(../images/Mh.png)bottom left no-repeat;
+      background-size: auto;
+    }
+
+    .banner-section {
+      width: 100%;
+      padding: 40px 0px;
+    }
+
+    .banner-section .inner-banner {
+      padding: 20px 0px;
+    }
+
+    .banner-section .inner-banner h2 {
+      font-size: 32px;
+      line-height: 36px;
+    }
+
+    .banner-section .inner-banner .btn {
+      padding: 6px 28px;
+      font-size: 14px;
+
+
+    }
+
+    .navbar-nav .nav-item .btn-success {
+
+      margin: 12px 7px;
+
+    }
+ 
+
+    /* ===========================*/
+
+  }
